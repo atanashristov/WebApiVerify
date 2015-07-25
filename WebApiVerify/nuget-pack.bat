@@ -1,0 +1,1 @@
+﻿nuget pack WebApiVerify.csproj -Prop Configuration=Release -Symbols
